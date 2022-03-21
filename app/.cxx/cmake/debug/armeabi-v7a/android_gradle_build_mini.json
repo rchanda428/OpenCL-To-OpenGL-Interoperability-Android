@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\src\\main\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "lib_opencv-Debug-armeabi-v7a": {
+      "artifactName": "lib_opencv",
+      "abi": "armeabi-v7a",
+      "output": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\src\\main\\jniLibs\\armeabi-v7a\\libopencv_java4.so"
+    },
+    "gl2jni-Debug-armeabi-v7a": {
+      "artifactName": "gl2jni",
+      "buildCommand": "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a --target gl2jni",
+      "abi": "armeabi-v7a",
+      "output": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libgl2jni.so"
+    }
+  }
+}

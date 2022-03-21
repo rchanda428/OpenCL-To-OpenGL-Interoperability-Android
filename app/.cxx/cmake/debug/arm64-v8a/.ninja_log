@@ -1,0 +1,15 @@
+# ninja log v5
+2	4990	0	CMakeFiles/gl2jni.dir/cpp/util.cpp.o	80d6461a799c198d
+25	5947	0	CMakeFiles/gl2jni.dir/cpp/cl_wrapper.cpp.o	747e429cc9590a76
+911	6548	0	CMakeFiles/gl2jni.dir/cpp/libopencl.c.o	84baf8579405195
+1582	8647	0	CMakeFiles/gl2jni.dir/cpp/cl_egl_sync.cpp.o	864d74cb353136b3
+2924	11739	0	CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o	2fd8b5f74c891c1a
+11741	13251	0	D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	9939e7e61c8dcd4d
+13	6198	0	CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o	2fd8b5f74c891c1a
+6198	7521	0	D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	9939e7e61c8dcd4d
+18	9631	0	CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o	2fd8b5f74c891c1a
+9632	11782	0	D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	9939e7e61c8dcd4d
+13	7842	0	CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o	2fd8b5f74c891c1a
+7843	9799	0	D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	9939e7e61c8dcd4d
+15	8679	0	CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o	2fd8b5f74c891c1a
+8679	10736	0	D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/build/intermediates/cmake/debug/obj/arm64-v8a/libgl2jni.so	9939e7e61c8dcd4d

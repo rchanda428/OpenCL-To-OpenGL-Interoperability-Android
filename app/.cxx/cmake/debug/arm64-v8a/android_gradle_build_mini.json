@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\\app\\src\\main\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\\app\\.cxx\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "gl2jni-Debug-arm64-v8a": {
+      "artifactName": "gl2jni",
+      "buildCommand": "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\\app\\.cxx\\cmake\\debug\\arm64-v8a --target gl2jni",
+      "abi": "arm64-v8a",
+      "output": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libgl2jni.so"
+    },
+    "lib_opencv-Debug-arm64-v8a": {
+      "artifactName": "lib_opencv",
+      "abi": "arm64-v8a",
+      "output": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\\app\\src\\main\\jniLibs\\arm64-v8a\\libopencv_java4.so"
+    }
+  }
+}

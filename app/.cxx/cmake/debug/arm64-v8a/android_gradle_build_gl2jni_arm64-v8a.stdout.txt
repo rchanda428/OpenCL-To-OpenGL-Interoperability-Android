@@ -1,0 +1,51 @@
+[1/2] Building CXX object CMakeFiles/gl2jni.dir/cpp/gl_code.cpp.o
+In file included from D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp\gl_code.cpp:34:
+In file included from D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp/../jniIncludes/cl_code.h:9:
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:3664:34: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+            0, 0, 0, 0, 0, 0, 0, 0
+                                 ^
+                                 {}
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:3750:13: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+            buffer()
+            ^~~~~~~~
+            {       }
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:3831:22: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+            0, 0, 0, 0
+                     ^
+                     {}
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:3938:26: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+                0, 0, 0, 0
+                         ^
+                         {}
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:4141:19: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+            0, 0, 0
+                  ^
+                  {}
+D:/mywork/ActivProject/sourceCode/CL-GL-Interoperability/android-shader-demo-jni-localdisplay-intelWindowsCLGLexample/app/src/main/jniIncludes/CL/cl.hpp:4251:23: warning: suggest braces around initialization of subobject [-Wmissing-braces]
+                0, 0, 0
+                      ^
+                      {}
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp\gl_code.cpp:39:10: warning: 'LOG_TAG' macro redefined [-Wmacro-redefined]
+#define  LOG_TAG    "libgl2jni"
+         ^
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp/../jniIncludes/cl_code.h:10:9: note: previous definition is here
+#define LOG_TAG    "cl_code.hpp"
+        ^
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp\gl_code.cpp:145:58: warning: data argument not used by format string [-Wformat-extra-args]
+        DPRINTF("Error with clCreateProgramWithSource.", err );
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  ^
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp/../jniIncludes/cl_code.h:12:69: note: expanded from macro 'DPRINTF'
+#define DPRINTF(...)  __android_log_print(ANDROID_LOG_DEBUG,LOG_TAG,__VA_ARGS__)
+                                                                    ^~~~~~~~~~~
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp\gl_code.cpp:151:48: warning: data argument not used by format string [-Wformat-extra-args]
+        DPRINTF("Error with clBuildProgram.\n",err);
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ^
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp/../jniIncludes/cl_code.h:12:69: note: expanded from macro 'DPRINTF'
+#define DPRINTF(...)  __android_log_print(ANDROID_LOG_DEBUG,LOG_TAG,__VA_ARGS__)
+                                                                    ^~~~~~~~~~~
+D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\src\main\cpp\gl_code.cpp:328:77: warning: implicit conversion of NULL constant to 'cl_uint' (aka 'unsigned int') [-Wnull-conversion]
+    cl_err = clEnqueueNDRangeKernel(g_queue,g_kernel_image, 2, 0, gs, NULL, NULL, NULL, NULL);
+             ~~~~~~~~~~~~~~~~~~~~~~                                         ^~~~
+                                                                            0
+10 warnings generated.
+[2/2] Linking CXX shared library D:\mywork\ActivProject\sourceCode\CL-GL-Interoperability\android-shader-demo-jni-localdisplay-intelWindowsCLGLexample\app\build\intermediates\cmake\debug\obj\arm64-v8a\libgl2jni.so

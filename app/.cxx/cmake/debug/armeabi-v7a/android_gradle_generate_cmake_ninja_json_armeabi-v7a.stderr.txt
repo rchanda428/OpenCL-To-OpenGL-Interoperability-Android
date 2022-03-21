@@ -1,0 +1,1 @@
+androidabi is armeabi-v7a

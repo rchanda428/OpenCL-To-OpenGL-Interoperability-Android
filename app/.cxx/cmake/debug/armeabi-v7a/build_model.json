@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync",
+      "sdkFolder": "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app",
+      "makeFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\src\\main\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\.cxx",
+      "cxxFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\rchanda\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147",
+      "ndkVersion": "21.3.6528147",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_static"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\build\\intermediates\\cmake\\debug\\lib",
+    "objFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "jsonFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug",
+    "gradleBuildOutputFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
+  "jsonFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a",
+  "buildCommandFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cxx\\debug\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\mywork\\ActivProject\\sourceCode\\CL-GL-Interoperability\\android-shader-demo-jni-localdisplay-copykernel-QCCLSDK-cl-egl-sync\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\compile_commands.json"
+}
